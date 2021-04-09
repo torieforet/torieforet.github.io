@@ -1,4 +1,4 @@
-# Torie Foret Example 
+# Torie Foret's Example 
 This map is an example assignment for GEOG 4046 course at LSU. 
 
 ## Current Weather
